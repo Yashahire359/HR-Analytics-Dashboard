@@ -96,7 +96,8 @@ Aspiring Data Analyst | Power BI | SQL | Data Analytics
 ## ⭐ Acknowledgment
 
 This project demonstrates the use of Microsoft Power BI for human resource analytics and workforce reporting.
-<img width="1920" height="1080" alt="Screenshot 2026-10-30 191123" src="https://github.com/user-attachments/assets/edfc2a0c-c18e-41f9-bc41-e5c01b99b874" />
+<img width="1920" height="1014" alt="Screenshot 2026-10-30 191123" src="https://github.com/user-attachments/assets/46913348-b930-4191-a648-9a4c31a241fb" />
+
 
 ---
 
